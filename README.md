@@ -1,8 +1,6 @@
-![I am a student](https://devopsjournal.io/images/20211204/20211204_dev_to_hackathon.jpg)
-
 ### Hi there 👋, I'm Mushfiq
 #### I am a student
-
+![I am a student](https://www.onlc.com/blog/wp-content/uploads/2017/07/ONLC-2017-4.png)
 
 I'm currently studying CSE in BUBT
 
