@@ -1,6 +1,8 @@
+![I am a student](https://www.onlc.com/blog/wp-content/uploads/2017/07/ONLC-2017-4.png)
+
 ### Hi there 👋, I'm Mushfiq
 #### I am a student
-![I am a student](https://www.onlc.com/blog/wp-content/uploads/2017/07/ONLC-2017-4.png)
+
 
 I'm currently studying CSE in BUBT
 
