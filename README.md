@@ -1,4 +1,4 @@
-![I am a student](https://img.freepik.com/premium-vector/coding-programmer-workspace-with-cactus-coffee-book-vector-clip-art-illustration_138676-87.jpg?w=2000)
+
 
 ### Hi there 👋, I'm Mushfiq
 #### I am a student
