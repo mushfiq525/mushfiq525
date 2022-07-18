@@ -1,16 +1,14 @@
-### Hi there 👋
+![I am a student](https://devopsjournal.io/images/20211204/20211204_dev_to_hackathon.jpg)
 
-<!--
-**mushfiq525/mushfiq525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Mushfiq
+#### I am a student
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently studying CSE in BUBT
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mushfiq525)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mushfiqur.rahman55)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mushfiqur_rahman5/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiq525)](https://github.com/anuraghazra/github-readme-stats)
+
