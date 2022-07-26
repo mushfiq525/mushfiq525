@@ -1,5 +1,3 @@
-
-
 ### Hi there 👋, I'm Mushfiq
 #### I am a student
 
@@ -12,3 +10,4 @@ I'm currently studying CSE in BUBT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiq525)](https://github.com/anuraghazra/github-readme-stats)
 
+![Profile views](https://gpvc.arturio.dev/mushfiq525)  
